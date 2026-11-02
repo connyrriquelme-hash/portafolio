@@ -1,0 +1,8 @@
+{
+  // Worker que publica www.profeconny.com
+  "name": "long-limit-9eff",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
